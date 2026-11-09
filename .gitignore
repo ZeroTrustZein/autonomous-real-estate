@@ -24,3 +24,4 @@ wheels/
 htmlcov/
 .venv
 venv/
+.lane/

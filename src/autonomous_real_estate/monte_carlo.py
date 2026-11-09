@@ -15,12 +15,12 @@ class MonteCarloSimulator:
     """Executes stochastic distributions over underwriting metrics."""
 
     @classmethod
-    def simulate(
+    def sample_irrs(
         cls,
         prop: PropertyInput,
         params: MonteCarloParams | None = None,
-    ) -> MonteCarloResult:
-        """Run N Monte Carlo iterations by shocking vacancy, rent growth, and exit caps."""
+    ) -> tuple[np.ndarray, int]:
+        """Sample Monte Carlo IRR distribution and count DSCR breaches (< 1.20)."""
         p = params or MonteCarloParams()
         rng = np.random.default_rng(p.seed)
 
@@ -53,7 +53,18 @@ class MonteCarloSimulator:
             if proj.min_dscr < 1.20:
                 dscr_breaches += 1
 
-        irr_array = np.array(irrs)
+        return np.array(irrs), dscr_breaches
+
+    @classmethod
+    def simulate(
+        cls,
+        prop: PropertyInput,
+        params: MonteCarloParams | None = None,
+    ) -> MonteCarloResult:
+        """Run N Monte Carlo iterations by shocking vacancy, rent growth, and exit caps."""
+        p = params or MonteCarloParams()
+        irr_array, dscr_breaches = cls.sample_irrs(prop, p)
+
         mean_irr = float(np.mean(irr_array))
         median_irr = float(np.median(irr_array))
         std_irr = float(np.std(irr_array))

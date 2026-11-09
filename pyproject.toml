@@ -19,6 +19,10 @@ dev = [
     "pytest>=7.0.0",
     "pytest-cov>=4.0.0"
 ]
+docs = [
+    "matplotlib>=3.8.0",
+    "rich>=13.0.0"
+]
 
 [project.scripts]
 are-underwrite = "autonomous_real_estate.cli:main"
