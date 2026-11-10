@@ -1,0 +1,180 @@
+<svg class="rich-terminal" viewBox="0 0 1092 782.0" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-2584010682-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-2584010682-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-2584010682-r1 { fill: #38bdf8;font-weight: bold }
+.terminal-2584010682-r2 { fill: #c5c8c6 }
+.terminal-2584010682-r3 { fill: #64748b }
+.terminal-2584010682-r4 { fill: #34d399;font-weight: bold }
+.terminal-2584010682-r5 { fill: #cbd5e1 }
+.terminal-2584010682-r6 { fill: #34d399 }
+.terminal-2584010682-r7 { fill: #f87171 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-2584010682-clip-terminal">
+      <rect x="0" y="0" width="1072.6" height="731.0" />
+    </clipPath>
+    <clipPath id="terminal-2584010682-line-0">
+    <rect x="0" y="1.5" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-1">
+    <rect x="0" y="25.9" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-2">
+    <rect x="0" y="50.3" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-3">
+    <rect x="0" y="74.7" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-4">
+    <rect x="0" y="99.1" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-5">
+    <rect x="0" y="123.5" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-6">
+    <rect x="0" y="147.9" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-7">
+    <rect x="0" y="172.3" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-8">
+    <rect x="0" y="196.7" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-9">
+    <rect x="0" y="221.1" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-10">
+    <rect x="0" y="245.5" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-11">
+    <rect x="0" y="269.9" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-12">
+    <rect x="0" y="294.3" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-13">
+    <rect x="0" y="318.7" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-14">
+    <rect x="0" y="343.1" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-15">
+    <rect x="0" y="367.5" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-16">
+    <rect x="0" y="391.9" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-17">
+    <rect x="0" y="416.3" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-18">
+    <rect x="0" y="440.7" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-19">
+    <rect x="0" y="465.1" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-20">
+    <rect x="0" y="489.5" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-21">
+    <rect x="0" y="513.9" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-22">
+    <rect x="0" y="538.3" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-23">
+    <rect x="0" y="562.7" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-24">
+    <rect x="0" y="587.1" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-25">
+    <rect x="0" y="611.5" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-26">
+    <rect x="0" y="635.9" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-27">
+    <rect x="0" y="660.3" width="1073.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2584010682-line-28">
+    <rect x="0" y="684.7" width="1073.6" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1090" height="780" rx="8"/><text class="terminal-2584010682-title" fill="#c5c8c6" text-anchor="middle" x="545" y="27">are-underwrite&#160;evaluate</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-2584010682-clip-terminal)">
+    
+    <g class="terminal-2584010682-matrix">
+    <text class="terminal-2584010682-r1" x="0" y="20" textLength="671" clip-path="url(#terminal-2584010682-line-0)">$&#160;are-underwrite&#160;evaluate&#160;--price&#160;5000000&#160;--rent&#160;600000</text><text class="terminal-2584010682-r2" x="1073.6" y="20" textLength="12.2" clip-path="url(#terminal-2584010682-line-0)">
+</text><text class="terminal-2584010682-r3" x="0" y="44.4" textLength="610" clip-path="url(#terminal-2584010682-line-1)">==================================================</text><text class="terminal-2584010682-r2" x="1073.6" y="44.4" textLength="12.2" clip-path="url(#terminal-2584010682-line-1)">
+</text><text class="terminal-2584010682-r2" x="0" y="68.8" textLength="597.8" clip-path="url(#terminal-2584010682-line-2)">&#160;UNDERWRITING&#160;REPORT:&#160;Commercial&#160;Asset&#160;(PROP-101)</text><text class="terminal-2584010682-r2" x="1073.6" y="68.8" textLength="12.2" clip-path="url(#terminal-2584010682-line-2)">
+</text><text class="terminal-2584010682-r3" x="0" y="93.2" textLength="610" clip-path="url(#terminal-2584010682-line-3)">==================================================</text><text class="terminal-2584010682-r2" x="1073.6" y="93.2" textLength="12.2" clip-path="url(#terminal-2584010682-line-3)">
+</text><text class="terminal-2584010682-r4" x="0" y="117.6" textLength="219.6" clip-path="url(#terminal-2584010682-line-4)">DECISION:&#160;APPROVED</text><text class="terminal-2584010682-r2" x="1073.6" y="117.6" textLength="12.2" clip-path="url(#terminal-2584010682-line-4)">
+</text><text class="terminal-2584010682-r2" x="0" y="142" textLength="1012.6" clip-path="url(#terminal-2584010682-line-5)">SUMMARY:&#160;&#160;Deal&#160;satisfies&#160;baseline&#160;yield&#160;hurdles&#160;and&#160;demonstrates&#160;strong&#160;resilience&#160;</text><text class="terminal-2584010682-r2" x="1073.6" y="142" textLength="12.2" clip-path="url(#terminal-2584010682-line-5)">
+</text><text class="terminal-2584010682-r2" x="0" y="166.4" textLength="317.2" clip-path="url(#terminal-2584010682-line-6)">against&#160;stochastic&#160;shocks.</text><text class="terminal-2584010682-r2" x="1073.6" y="166.4" textLength="12.2" clip-path="url(#terminal-2584010682-line-6)">
+</text><text class="terminal-2584010682-r2" x="1073.6" y="190.8" textLength="12.2" clip-path="url(#terminal-2584010682-line-7)">
+</text><text class="terminal-2584010682-r3" x="0" y="215.2" textLength="305" clip-path="url(#terminal-2584010682-line-8)">---&#160;BASE&#160;CASE&#160;METRICS&#160;---</text><text class="terminal-2584010682-r2" x="1073.6" y="215.2" textLength="12.2" clip-path="url(#terminal-2584010682-line-8)">
+</text><text class="terminal-2584010682-r2" x="0" y="239.6" textLength="427" clip-path="url(#terminal-2584010682-line-9)">Purchase&#160;Price:&#160;&#160;&#160;&#160;&#160;&#160;&#160;$5,000,000.00</text><text class="terminal-2584010682-r2" x="1073.6" y="239.6" textLength="12.2" clip-path="url(#terminal-2584010682-line-9)">
+</text><text class="terminal-2584010682-r2" x="0" y="264" textLength="427" clip-path="url(#terminal-2584010682-line-10)">Initial&#160;Equity:&#160;&#160;&#160;&#160;&#160;&#160;&#160;$1,250,000.00</text><text class="terminal-2584010682-r2" x="1073.6" y="264" textLength="12.2" clip-path="url(#terminal-2584010682-line-10)">
+</text><text class="terminal-2584010682-r2" x="0" y="288.4" textLength="427" clip-path="url(#terminal-2584010682-line-11)">Exit&#160;Sale&#160;Price:&#160;&#160;&#160;&#160;&#160;&#160;$6,607,862.16</text><text class="terminal-2584010682-r2" x="1073.6" y="288.4" textLength="12.2" clip-path="url(#terminal-2584010682-line-11)">
+</text><text class="terminal-2584010682-r2" x="0" y="312.8" textLength="341.6" clip-path="url(#terminal-2584010682-line-12)">Unlevered&#160;IRR:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;12.80%</text><text class="terminal-2584010682-r2" x="1073.6" y="312.8" textLength="12.2" clip-path="url(#terminal-2584010682-line-12)">
+</text><text class="terminal-2584010682-r2" x="0" y="337.2" textLength="341.6" clip-path="url(#terminal-2584010682-line-13)">Levered&#160;IRR:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;25.97%</text><text class="terminal-2584010682-r2" x="1073.6" y="337.2" textLength="12.2" clip-path="url(#terminal-2584010682-line-13)">
+</text><text class="terminal-2584010682-r2" x="0" y="361.6" textLength="329.4" clip-path="url(#terminal-2584010682-line-14)">Equity&#160;Multiple:&#160;&#160;&#160;&#160;&#160;&#160;2.91x</text><text class="terminal-2584010682-r2" x="1073.6" y="361.6" textLength="12.2" clip-path="url(#terminal-2584010682-line-14)">
+</text><text class="terminal-2584010682-r2" x="0" y="386" textLength="317.2" clip-path="url(#terminal-2584010682-line-15)">Min&#160;DSCR:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.30</text><text class="terminal-2584010682-r2" x="1073.6" y="386" textLength="12.2" clip-path="url(#terminal-2584010682-line-15)">
+</text><text class="terminal-2584010682-r2" x="1073.6" y="410.4" textLength="12.2" clip-path="url(#terminal-2584010682-line-16)">
+</text><text class="terminal-2584010682-r3" x="0" y="434.8" textLength="402.6" clip-path="url(#terminal-2584010682-line-17)">---&#160;MONTE&#160;CARLO&#160;RISK&#160;(95%&#160;CI)&#160;---</text><text class="terminal-2584010682-r2" x="1073.6" y="434.8" textLength="12.2" clip-path="url(#terminal-2584010682-line-17)">
+</text><text class="terminal-2584010682-r2" x="0" y="459.2" textLength="341.6" clip-path="url(#terminal-2584010682-line-18)">Mean&#160;Levered&#160;IRR:&#160;&#160;&#160;&#160;&#160;25.46%</text><text class="terminal-2584010682-r2" x="1073.6" y="459.2" textLength="12.2" clip-path="url(#terminal-2584010682-line-18)">
+</text><text class="terminal-2584010682-r2" x="0" y="483.6" textLength="341.6" clip-path="url(#terminal-2584010682-line-19)">Value&#160;at&#160;Risk&#160;(95%):&#160;&#160;12.19%</text><text class="terminal-2584010682-r2" x="1073.6" y="483.6" textLength="12.2" clip-path="url(#terminal-2584010682-line-19)">
+</text><text class="terminal-2584010682-r2" x="0" y="508" textLength="317.2" clip-path="url(#terminal-2584010682-line-20)">Probability&#160;Neg&#160;IRR:&#160;&#160;0.1%</text><text class="terminal-2584010682-r2" x="1073.6" y="508" textLength="12.2" clip-path="url(#terminal-2584010682-line-20)">
+</text><text class="terminal-2584010682-r2" x="0" y="532.4" textLength="317.2" clip-path="url(#terminal-2584010682-line-21)">Probability&#160;DSCR&#160;&lt;1.2:0.1%</text><text class="terminal-2584010682-r2" x="1073.6" y="532.4" textLength="12.2" clip-path="url(#terminal-2584010682-line-21)">
+</text><text class="terminal-2584010682-r2" x="1073.6" y="556.8" textLength="12.2" clip-path="url(#terminal-2584010682-line-22)">
+</text><text class="terminal-2584010682-r3" x="0" y="581.2" textLength="341.6" clip-path="url(#terminal-2584010682-line-23)">---&#160;AGENT&#160;SYNTHESIS&#160;LOGS&#160;---</text><text class="terminal-2584010682-r2" x="1073.6" y="581.2" textLength="12.2" clip-path="url(#terminal-2584010682-line-23)">
+</text><text class="terminal-2584010682-r5" x="0" y="605.6" textLength="646.6" clip-path="url(#terminal-2584010682-line-24)">&#160;*&#160;[AcquisitionAgent]&#160;Unlevered&#160;Day-1&#160;Cap&#160;Rate:&#160;7.41%</text><text class="terminal-2584010682-r2" x="1073.6" y="605.6" textLength="12.2" clip-path="url(#terminal-2584010682-line-24)">
+</text><text class="terminal-2584010682-r6" x="0" y="630" textLength="719.8" clip-path="url(#terminal-2584010682-line-25)">&#160;*&#160;[AcquisitionAgent]&#160;PASS:&#160;Levered&#160;IRR&#160;25.97%&#160;meets&#160;hurdle</text><text class="terminal-2584010682-r2" x="1073.6" y="630" textLength="12.2" clip-path="url(#terminal-2584010682-line-25)">
+</text><text class="terminal-2584010682-r5" x="0" y="654.4" textLength="683.2" clip-path="url(#terminal-2584010682-line-26)">&#160;*&#160;[RiskAgent]&#160;Monte&#160;Carlo&#160;95%&#160;VaR:&#160;12.19%,&#160;CVaR:&#160;15.90%</text><text class="terminal-2584010682-r2" x="1073.6" y="654.4" textLength="12.2" clip-path="url(#terminal-2584010682-line-26)">
+</text><text class="terminal-2584010682-r5" x="0" y="678.8" textLength="915" clip-path="url(#terminal-2584010682-line-27)">&#160;*&#160;[RiskAgent]&#160;Scenario&#160;&#x27;Mild&#160;Recession&#x27;:&#160;Levered&#160;IRR&#160;13.14%,&#160;Min&#160;DSCR&#160;1.25</text><text class="terminal-2584010682-r2" x="1073.6" y="678.8" textLength="12.2" clip-path="url(#terminal-2584010682-line-27)">
+</text><text class="terminal-2584010682-r7" x="0" y="703.2" textLength="976" clip-path="url(#terminal-2584010682-line-28)">&#160;*&#160;[RiskAgent]&#160;Scenario&#160;&#x27;Severe&#160;Stagflation&#x27;:&#160;Levered&#160;IRR&#160;-13.72%,&#160;Min&#160;DSCR&#160;1.10</text><text class="terminal-2584010682-r2" x="1073.6" y="703.2" textLength="12.2" clip-path="url(#terminal-2584010682-line-28)">
+</text><text class="terminal-2584010682-r3" x="0" y="727.6" textLength="610" clip-path="url(#terminal-2584010682-line-29)">==================================================</text><text class="terminal-2584010682-r2" x="1073.6" y="727.6" textLength="12.2" clip-path="url(#terminal-2584010682-line-29)">
+</text>
+    </g>
+    </g>
+</svg>
